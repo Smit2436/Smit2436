@@ -65,8 +65,6 @@ An interactive AR experience where users place a character on a surface and cont
 
 
 ## 📫 Contact with me:
-[🌐](https://www.linkedin.com/in/smit-sangani-370260255/) 
-[📧](sanganismit7@gmail.com)
-- 📧 Email: [sanganismit7@gmail.com](sanganismit7@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/LinkedIn](https://www.linkedin.com/in/smit-sangani-370260255/)  
+- 📧 : [sanganismit7@gmail.com](sanganismit7@gmail.com)  
+- 💼 : [linkedin.com/in/LinkedIn](https://www.linkedin.com/in/smit-sangani-370260255/)  
 
