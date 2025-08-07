@@ -29,5 +29,40 @@ An interactive AR experience where users place a character on a surface and cont
 
 ---
 
+## 📚 Currently Learning
+- Shader Graph
+- Unity Addressables
+- DOTS (Data-Oriented Tech Stack)
+- Multiplayer with Photon / Netcode
+
+---
+
+## 💬 Ask Me About
+- Unity game development (2D/3D)
+- Augmented Reality in Unity
+- Optimizing Unity for mobile
+- Unity animations and sound integration
+
+---
+
+## 🧰 Languages & Tools
+![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Vuforia](https://img.shields.io/badge/-Vuforia-3776AB?style=flat)
+
+---
+
+## 🤓 Fun Facts
+- I built my first AR project before finishing my first full Unity course.
+- I love experimenting with physics-based gameplay.
+- I often mix coding with sound and animation to create fun, interactive moments in AR.
+
+---
+
+
 ## 📫 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/smit-sangani-370260255/) or reach out for collaboration or freelance work.
