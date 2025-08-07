@@ -30,10 +30,10 @@ An interactive AR experience where users place a character on a surface and cont
 ---
 
 ## 📚 Currently Learning
-- Shader Graph
+- VR
 - Unity Addressables
-- DOTS (Data-Oriented Tech Stack)
-- Multiplayer with Photon / Netcode
+- Vuforia
+- Multiplayer with Photon 
 
 ---
 
@@ -64,5 +64,6 @@ An interactive AR experience where users place a character on a surface and cont
 ---
 
 
-## 📫 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/smit-sangani-370260255/) or reach out for collaboration or freelance work.
+## 📫 Contact with me:
+[🌐](https://www.linkedin.com/in/smit-sangani-370260255/) 
+[📧](sanganismit7@gmail.com)
